@@ -1,2 +1,4 @@
 # Moodle
-Complete online learning management system with Qiuz (numadmin,Mypass@123)
+Complete online learning management system with Qiuz 
+installing moodle on ubuntu desktop
+(numadmin,Mypass@123)
